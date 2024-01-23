@@ -1,0 +1,32 @@
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\bin\Debug\net6.0\Создание первого API. Взаимодействие с API..exe
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\bin\Debug\net6.0\Создание первого API. Взаимодействие с API..deps.json
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\bin\Debug\net6.0\Создание первого API. Взаимодействие с API..runtimeconfig.json
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\bin\Debug\net6.0\Создание первого API. Взаимодействие с API..dll
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\bin\Debug\net6.0\Создание первого API. Взаимодействие с API..pdb
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\obj\Debug\net6.0\Создание первого API. Взаимодействие с API..csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\obj\Debug\net6.0\Создание первого API. Взаимодействие с API..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\obj\Debug\net6.0\Создание первого API. Взаимодействие с API..AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\obj\Debug\net6.0\Создание первого API. Взаимодействие с API..AssemblyInfo.cs
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\obj\Debug\net6.0\Создание первого API. Взаимодействие с API..csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\obj\Debug\net6.0\Создание первого API. Взаимодействие с API..MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\obj\Debug\net6.0\Создание первого API. Взаимодействие с API..MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\obj\Debug\net6.0\staticwebassets\msbuild.Создание первого API. Взаимодействие с API..Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\obj\Debug\net6.0\staticwebassets\msbuild.build.Создание первого API. Взаимодействие с API..props
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Создание первого API. Взаимодействие с API..props
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Создание первого API. Взаимодействие с API..props
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\obj\Debug\net6.0\scopedcss\bundle\Создание первого API. Взаимодействие с API..styles.css
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\obj\Debug\net6.0\Создание первого API. Взаимодействие с API..csproj.CopyComplete
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\obj\Debug\net6.0\Создание первого API. Взаимодействие с API..dll
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\obj\Debug\net6.0\refint\Создание первого API. Взаимодействие с API..dll
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\obj\Debug\net6.0\Создание первого API. Взаимодействие с API..pdb
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\obj\Debug\net6.0\Создание первого API. Взаимодействие с API..genruntimeconfig.cache
+C:\Users\user\Desktop\Куколева Полищук\Создание первого API. Взаимодействие с API\Создание первого API. Взаимодействие с API\obj\Debug\net6.0\ref\Создание первого API. Взаимодействие с API..dll
